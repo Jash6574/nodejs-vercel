@@ -9,15 +9,15 @@ app.get('/',(req,res)=>{
         "type_id":2,
         "offset":0,
         "products":[
-           {
-              "id":1,
-              "name":"Biryani",
-              "description":"If there’s one dish that almost everyone knows in Indian cuisine, it’s biryani. The origin of this aromatic mixture of rice, spices and meat is usually credited to the Mughal kings who once ruled the subcontinent, but it’s now a popular dish all over the country. The meat (and vegetables, if used) and rice are cooked separately before being layered and cooked together with a mixture of spices. The type of meat used varies; goat, chicken, beef, lamb, fish or prawns are used according to the region, with eggs and potatoes sometimes added as well. States across India all cook this quintessential main dish in different styles, with Delhi biryani and Hyderabadi biryani being popular varieties. It is also served with a regional twist in countries such as Pakistan, Bangladesh, Afghanistan and Burma.",
-              "price":10,
-              "stars":5,
-              "img":"https://www.tasteofhome.com/wp-content/uploads/2021/01/the-hyderabadi-chicken-biryani-is-photographed-at-akshaya-168918303.jpg?resize=768,768",
-              "type_id":2
-           },
+         //   {
+         //      "id":1,
+         //      "name":"Biryani",
+         //      "description":"If there’s one dish that almost everyone knows in Indian cuisine, it’s biryani. The origin of this aromatic mixture of rice, spices and meat is usually credited to the Mughal kings who once ruled the subcontinent, but it’s now a popular dish all over the country. The meat (and vegetables, if used) and rice are cooked separately before being layered and cooked together with a mixture of spices. The type of meat used varies; goat, chicken, beef, lamb, fish or prawns are used according to the region, with eggs and potatoes sometimes added as well. States across India all cook this quintessential main dish in different styles, with Delhi biryani and Hyderabadi biryani being popular varieties. It is also served with a regional twist in countries such as Pakistan, Bangladesh, Afghanistan and Burma.",
+         //      "price":10,
+         //      "stars":5,
+         //      "img":"https://www.tasteofhome.com/wp-content/uploads/2021/01/the-hyderabadi-chicken-biryani-is-photographed-at-akshaya-168918303.jpg?resize=768,768",
+         //      "type_id":2
+         //   },
            {
               "id":2,
               "name":"Curry",
